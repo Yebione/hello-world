@@ -1,39 +1,33 @@
+### 👋 Hey, I'm Kyle Billones!  
+
 <img src="https://img.icons8.com/ios/250/FFFFFF/surface.png" width="100" />
 
-# My Dimensions
+# My Dimensions  
 
-Hello there! My name is Kyle Billones. I am a 19 year old, 1st year college student taking up Bachelor of Science in Computer Science at the ever prestige West Visayas State University. Get to know me by taking a glimpse at My Dimensions ! 
+Hello there! My name is Kyle Billones. I’m a **4th-year Computer Science student** at the prestigious **West Visayas State University**. I thrive on **creating, exploring, and innovating**—always looking for ways to push boundaries through technology.  
 
+### 🖥 Why Computer Science?  
 
-### 🖥 Why ComScie?
+With a passion for **problem-solving, design, and robotics**, Computer Science is the perfect path for me. As the world moves towards a tech-driven future, I aim to be at the forefront—building **smart, impactful solutions** that make a difference.  
 
-As a person who enjoys creating, thinking, exploring, and learning, I think Computer Science is the perfect course for me. Moreover, as the world continues to shift to a future reliant on Information Technology, I believe this is the path where I will find myself achieving great things. 
+### ⌨ What Am I Up To?  
 
+Here are the apps and tools I use to **design, prototype, and create:**  
 
-### ⌨ What Am I upto?
+✅ **Figma**  
+✅ **Adobe Illustrator**  
+✅ **Spline**  
+✅ **SketchUp**  
+✅ **Adobe Premiere** 
 
-Here is the list of apps and softwares I use to create and continue to get better at:
+Here are the **programming languages & frameworks** I work with:  
 
-1. Trimble Sketchup
-2. Adobe Illustrator
-3. Adobe Premiere
-4. Adobe Photoshop
-5. Microsoft Powerpoint
+💻 **Python, C++, ROS (Robot Operating System)**  
+📱 **Flutter/Dart**  
+🌐 **HTML, CSS, JavaScript, Tailwind, React, TypeScript**  
 
-Here is the list of programming and mark-up languages that I am using and currently learning:
+### 🤖 Why Yebione?  
 
-1. C++
-2. Python
-3. Java
-4. HTML 
-5. CSS 
+Ever wondered why my username is **Yebione**? Try typing **Kyle Billones** without spaces and without using the **2nd (middle) row** of the keyboard. 😉  
 
-
-### 🤖 Why Yebione?
-
-Are you wondering why my username is Yebione? Try typing Kyle Billones without space and without using the 2nd or middle row of the keyboard. 
-
-
-### ✔ Check me out!
-
-To see some of my works, Click this [Google Drive link](https://drive.google.com/drive/folders/1SDaac_OtQv-JKQxM0y22UYAqnxsMzhg8?usp=sharing).
+🚀 **Always learning. Always building. To conjure wonders from the void.**
