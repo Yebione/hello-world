@@ -1,5 +1,3 @@
-### 👋 Hey, I'm Kyle Billones!  
-
 <img src="https://img.icons8.com/ios/250/FFFFFF/surface.png" width="100" />
 
 # My Dimensions  
