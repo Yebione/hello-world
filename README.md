@@ -8,16 +8,6 @@ Hello there! My name is Kyle Billones. I’m a **4th-year Computer Science stude
 
 With a passion for **problem-solving, design, and robotics**, Computer Science is the perfect path for me. As the world moves towards a tech-driven future, I aim to be at the forefront—building **smart, impactful solutions** that make a difference.  
 
-### ⌨ What Am I Up To?  
-
-Here are the apps and tools I use to **design, prototype, and create:**  
-
-✅ **Figma**  
-✅ **Adobe Illustrator**  
-✅ **Spline**  
-✅ **SketchUp**  
-✅ **Adobe Premiere** 
-
 Here are the **programming languages & frameworks** I work with:  
 
 💻 **Python, C++, ROS (Robot Operating System)**  
